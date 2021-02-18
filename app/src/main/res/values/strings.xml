@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Sandwiches</string>
+
+
+    <string-array name="N_Sandwiches">
+        <item>Chicken Pizza Sandwich</item>
+        <item>Beef Panini Sandwish</item>
+        <item>Ham Sandwich</item>
+        <item>Roast Beef Sandwich</item>
+        <item> Fish Sandwich</item>
+        <item>Turkey  Sandwich</item>
+        <item>Cheese Sandwich</item>
+    </string-array>
+
+    <string-array name="S_prices">
+        <item>"4.50$"</item>
+        <item>"5.50$"</item>
+        <item>"5.00$"</item>
+        <item>"3.00$"</item>
+        <item>"3.30$"</item>
+        <item>"4.40$"</item>
+        <item>"3.90$"</item>
+    </string-array>
+
+    <string-array name="Ingredients">
+        <item> cheese,Olive,paprika,
+            chicken breas,ketchup</item>
+        <item>cheddar cheese,hot paprika,beef,
+            lettuce</item>
+        <item>cheese,meat,Sauce,lettuce,
+            Potato</item>
+        <item>lettuce,slices of meat,tomato,cheese,cucumber</item>
+        <item>cucumber,cheese,eggs,fish,
+            lettuce</item>
+        <item>cheddar cheese,veggies,parsley,
+            Onions</item>
+        <item>meat,lettuce,cheese,vegetables,ketchup,mushroom  </item>
+    </string-array>
+
+
+</resources>
